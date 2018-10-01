@@ -4,7 +4,6 @@ A simple view that does a temporal count down.
 <center><img src="screenshot.png"></center>
 
 # Installation
-Pull in CountDownView from Jitpack...
 
 ```gradle
 allprojects {
